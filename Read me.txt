@@ -1,0 +1,10 @@
+This project is made entirely in C
+by students of COE-2 3rd Sem(2013-2017)
+(College:NSIT,New Delhi,India -110078)
+1.Mintoo Kumar(303/COE/13)
+2.Nitesh Dodeja(312/COE/13)
+3.Piyush Singhal(319/COE/13)
+
+NOTE- *TETRIS.C and SCORE.DAT must be copied to bin folder before running.
+      **TETRIS.exe must be run in 32-bits or lower resolution environment. 
+      ***use turboC or turboC++ for running the code.

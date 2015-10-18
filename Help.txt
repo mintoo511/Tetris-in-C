@@ -1,0 +1,18 @@
+
+******************************HELP***************************
+
+How To Play
+1.	Start the game.
+2.	Use left and right arrow keys to move tetrominoes left and right respectively.
+3.	Use space bar to rotate tetrominoes to fit holes. Tetrominoes rotate by 90 each time we press space bar.
+4.	Complete lines to gain points. The more lines completed at once, the more points gained. Completing the maximum number of lines at once, four, is known as a Tetris.
+5.	We can use down arrow to move the tetrominoes faster.
+6.	The speed of dropping tetrominoes varies with change in level.
+
+
+
+Objective & Scoring
+The main objective of the game is eliminating blocks by completing a horizontal line of blocks.
+
+How game ends?
+Game ends as we reach the top and there is no place for tetrominoes to enter.
